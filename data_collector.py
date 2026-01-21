@@ -3,7 +3,7 @@ import numpy as np
 import random
 from datetime import datetime, timedelta
 import networkx as nx
-import requests 
+import requests
 
 
 class SocialMediaDataGenerator:
@@ -91,7 +91,7 @@ class SocialMediaDataGenerator:
 
     def collect_real_facebook_data(self, access_token, limit=10):
         try:
-            print(f"🔗 Connecting to Facebook API with token...")
+            print(f" Connecting to Facebook API with token...")
 
             url = "https://graph.facebook.com/v18.0/me/posts"
             params = {
@@ -123,19 +123,19 @@ class SocialMediaDataGenerator:
 
 
                     real_df.to_csv('data/real_facebook_data.csv', index=False)
-                    print(f"✅ SUCCESS! Got {len(real_df)} REAL Facebook posts!")
-                    print("📁 Saved to: data/real_facebook_data.csv")
+                    print(f"SUCCESS! Got {len(real_df)} REAL Facebook posts!")
+                    print(" Saved to: data/real_facebook_data.csv")
 
                     return real_df
                 else:
-                    print("⚠️ No posts found in your Facebook account")
+                    print(" No posts found in your Facebook account")
                     return None
             else:
-                print(f"❌ Facebook API Error {response.status_code}: {response.text}")
+                print(f" Facebook API Error {response.status_code}: {response.text}")
                 return None
 
         except Exception as e:
-            print(f"❌ Error: {e}")
+            print(f" Error: {e}")
             return None
 
     def save_data(self):

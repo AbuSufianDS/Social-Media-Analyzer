@@ -3,12 +3,12 @@
 ## Executive Summary
  -Total Posts Analyzed: 1000
  -Total Users: 200
- -Analysis Period 2025-12-22 22:06:11.387026 - 2026-01-21 21:06:11.390026
+ -Analysis Period 2025-12-22 21:46:26.482845 - 2026-01-21 20:46:26.490850
 
 ## Sentiment Analysis
- -Positive Posts: 428
- -Negative Posts: 238
- -Neutral Posts: 334
+ -Positive Posts: 431
+ -Negative Posts: 236
+ -Neutral Posts: 333
  Average Polarity: 0.135
 
 ## Network Analysis
