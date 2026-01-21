@@ -123,7 +123,7 @@ class SentimentAnalyzer:
         axes[1,1].axvline(x = 0, color = 'r', linestyle = '--',alpha = 0.5)
         plt.colorbar(scatter,ax = axes[1,1],label = 'Subjectivity')
         plt.tight_layout()
-        plt.savefig('data/sentiment.png',dpi = 600,bbox_inches = 'tight')
+        plt.savefig('data/dashboard.png',dpi = 600,bbox_inches = 'tight')
         plt.show()
         print('Saved to data/sentiment.png')
 

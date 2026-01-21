@@ -10,7 +10,7 @@ class NetworkAnalyzer:
     def __init__(self):
         self.G = None
 
-    def load_network(self,edge_file = 'data/network.txt',user_file = 'data/users.txt'):
+    def load_network(self,edge_file = 'data/network.csv',user_file = 'user.csv'):
         edge_df = pd.read_csv(edge_file)
         user_df = pd.read_csv(user_file)
         self.G = nx.from_pandas_edgelist(edge_df,source = 'follower',
@@ -48,8 +48,8 @@ class NetworkAnalyzer:
         metrics['betweenness_centrality'] = nx.betweenness_centrality(self.G)
         metrics['closeness_centrality'] = nx.closeness_centrality(self.G)
 
-        top_influencers = sorted(in_degrees.items(),key = lambda x:x[1],reverse=True)[:10]
-        metrics['top_influencers'] = top_influencers
+        Top_Influencers = sorted(in_degrees.items(),key = lambda x:x[1],reverse=True)[:10]
+        metrics['Top_Influencers'] = Top_Influencers
 
         G_undirected = self.G.to_undirected()
         partition = community_louvain.best_partition(G_undirected)
@@ -102,7 +102,7 @@ class NetworkAnalyzer:
                      transform = plt.gca().transAxes,fontsize = 10, verticalalignment='top',horizontalalignment='right',
                      bbox  =dict(boxstyle = 'round', facecolor = 'white', alpha = 0.8))
         plt.tight_layout()
-        plt.savefig("data/network_visualization.png ", dpi = 600,bbox_inches = 'tight')
+        plt.savefig("data/network_visualization.png", dpi = 600,bbox_inches = 'tight')
         plt.show()
 
     def generate_network_report(self):
@@ -125,7 +125,7 @@ class NetworkAnalyzer:
                     {'user' : user, 'followers': deg}
                     for user, deg in metrics['Top_Influencers'][:5]
                 ],
-            'Degree_Distribution': dict(Counter(self.G.degree().values())),
+            'Degree_Distribution': dict(Counter(dict(self.G.degree()).values())),
             'Centrality_Analysis':{
                 'Most Central by Degree': max(metrics['degree_centrality'].items(),
                                               key = lambda x:x[1])[0],
@@ -145,7 +145,7 @@ class NetworkAnalyzer:
         print("Centrality Analysis:".upper())
         for centrality,user in report['Centrality_Analysis'].items():
             print(f"{centrality} : {user}")
-        self._plot_degree_distribution(metrics['Degree_Distribution'])
+        self._plot_degree_distribution(report['Degree_Distribution'])
         return report
 
     def _plot_degree_distribution(self,degree_dist):
@@ -168,7 +168,7 @@ class NetworkAnalyzer:
             inset.grid(True,alpha=0.3)
 
         plt.tight_layout()
-        plt.savefig("data/degree-distribution.png ", dpi = 600,bbox_inches = 'tight')
+        plt.savefig("data/degree-distribution.png", dpi = 600,bbox_inches = 'tight')
         plt.show()
 
         print("Saved Degree Distribution plot")

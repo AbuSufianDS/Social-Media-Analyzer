@@ -71,7 +71,7 @@ class SocialMediaDataGenerator:
                 'hashtags': f' #{topic} #{product}',
 
             })
-            return pd.DataFrame(posts)
+        return pd.DataFrame(posts)
     def generate_network(self):
         G = nx.DiGraph()
 
@@ -91,7 +91,7 @@ class SocialMediaDataGenerator:
         self.users.to_csv('user.csv',index = False)
         posts_df.to_csv('data/post.csv',index = False)
 
-        edges_df = pd.DataFrame(list(network.edges()),columns = ['followers','followed'])
+        edges_df = pd.DataFrame(list(network.edges()),columns = ['follower','followed'])
         edges_df.to_csv('data/network.csv',index = False)
         print("Generated Data...")
         print(f"-Users: {len(self.users)}")
