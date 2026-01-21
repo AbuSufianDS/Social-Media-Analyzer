@@ -1,201 +1,201 @@
 post_id,user_id,content,sentiment,topic,likes,retweets_shares,replies,timestamp,hashtags
-post_0000,user_022,Just had an amazing experience with YouTube! Highly recommend #entertainment #YouTube,positive,entertainment,4315,1050,52,2026-01-21 15:15:09.169236, #entertainment #YouTube
-post_0001,user_008,Änalysis of recent politics developments. #politics #YouTube,neutral,politics,7150,4584,11,2026-01-05 19:15:09.169236, #politics #YouTube
-post_0002,user_023,New study shows trends iin ML. Data attached. #sports #YouTube,neutral,sports,6727,331,606,2026-01-08 18:15:09.169236, #sports #YouTube
-post_0003,user_006,Interesting article about sports.Worth reading. #sports #YouTube,neutral,sports,125,1776,600,2026-01-16 04:15:09.169236, #sports #YouTube
-post_0004,user_023,Änalysis of recent entertainment developments. #entertainment #Facebook,neutral,entertainment,1659,4181,627,2026-01-09 03:15:09.169236, #entertainment #Facebook
-post_0005,user_005,Interesting article about politics.Worth reading. #politics #Facebook,neutral,politics,2462,4179,938,2026-01-15 01:15:09.169236, #politics #Facebook
-post_0006,user_018,Discussion about TikTok features.What do you think? #technology #TikTok,neutral,technology,3535,1792,46,2025-12-25 11:15:09.169236, #technology #TikTok
-post_0007,user_048,New study shows trends iin data science. Data attached. #science #Twitter,neutral,science,9372,3331,885,2026-01-04 17:15:09.169236, #science #Twitter
-post_0008,user_024,Really disappointed with YouTube.Excepted better #science #YouTube,negative,science,6400,389,60,2025-12-30 23:15:09.169236, #science #YouTube
-post_0009,user_033,Frustrated with the lack of progress in AI. #sports #TikTok,negative,sports,1556,882,614,2026-01-03 17:15:09.169236, #sports #TikTok
-post_0010,user_008,New study shows trends iin AI. Data attached. #technology #Instagram,neutral,technology,5276,3781,729,2026-01-04 01:15:09.169236, #technology #Instagram
-post_0011,user_009,Interesting article about politics.Worth reading. #politics #TikTok,neutral,politics,4544,3999,167,2025-12-29 21:15:09.169236, #politics #TikTok
-post_0012,user_024,Just had an amazing experience with YouTube! Highly recommend #entertainment #YouTube,positive,entertainment,1319,1517,809,2026-01-14 03:15:09.169236, #entertainment #YouTube
-post_0013,user_037,New study shows trends iin data science. Data attached. #politics #TikTok,neutral,politics,7276,2792,952,2026-01-05 07:15:09.169236, #politics #TikTok
-post_0014,user_030,Frustrated with the lack of progress in ML. #sports #Facebook,negative,sports,8140,2602,254,2025-12-31 13:15:09.169236, #sports #Facebook
-post_0015,user_023,The state politics is concerning. Need urgent action #politics #TikTok,negative,politics,8725,3021,448,2026-01-17 01:15:09.169236, #politics #TikTok
-post_0016,user_001,Loving the new features in Instagram. Game changer! #sports #Instagram,positive,sports,6243,2019,160,2025-12-26 02:15:09.169236, #sports #Instagram
-post_0017,user_044,So excited about the new technology developments.Future is bright #technology #Twitter,positive,technology,5955,4119,708,2026-01-16 05:15:09.169236, #technology #Twitter
-post_0018,user_026,Frustrated with the lack of progress in ML. #science #Facebook,negative,science,2052,3469,654,2026-01-02 04:15:09.169236, #science #Facebook
-post_0019,user_043,Instagram needs serious improvements. Not impressed #technology #Instagram,negative,technology,7406,4015,994,2025-12-29 02:15:09.169236, #technology #Instagram
-post_0020,user_019,Interesting article about technology.Worth reading. #technology #Facebook,neutral,technology,308,4082,608,2025-12-27 21:15:09.169236, #technology #Facebook
-post_0021,user_017,Interesting article about technology.Worth reading. #technology #YouTube,neutral,technology,2348,4777,950,2025-12-30 23:15:09.170254, #technology #YouTube
-post_0022,user_026,Interesting article about politics.Worth reading. #politics #Instagram,neutral,politics,1717,719,413,2026-01-09 02:15:09.170254, #politics #Instagram
-post_0023,user_031,The state politics is concerning. Need urgent action #politics #TikTok,negative,politics,1567,2308,713,2026-01-19 12:15:09.170254, #politics #TikTok
-post_0024,user_048,Loving the new features in Twitter. Game changer! #politics #Twitter,positive,politics,7610,2843,335,2026-01-02 08:15:09.170254, #politics #Twitter
-post_0025,user_022,Änalysis of recent science developments. #science #Facebook,neutral,science,7623,948,459,2025-12-28 00:15:09.170254, #science #Facebook
-post_0026,user_024,Instagram needs serious improvements. Not impressed #sports #Instagram,negative,sports,3443,2774,113,2025-12-24 11:15:09.170254, #sports #Instagram
-post_0027,user_021,Great to see progress in programming. Well done everyone! #sports #Twitter,positive,sports,4295,3132,892,2025-12-31 02:15:09.170254, #sports #Twitter
-post_0028,user_014,Discussion about TikTok features.What do you think? #politics #TikTok,neutral,politics,2704,3197,235,2026-01-06 09:15:09.170254, #politics #TikTok
-post_0029,user_003,The state sports is concerning. Need urgent action #sports #Twitter,negative,sports,3649,863,516,2025-12-26 02:15:09.170254, #sports #Twitter
-post_0030,user_040,New study shows trends iin ML. Data attached. #sports #TikTok,neutral,sports,4485,4675,811,2026-01-12 16:15:09.170254, #sports #TikTok
-post_0031,user_030,So excited about the new politics developments.Future is bright #politics #Facebook,positive,politics,5800,2747,140,2026-01-15 13:15:09.170254, #politics #Facebook
-post_0032,user_004,Just had an amazing experience with Facebook! Highly recommend #sports #Facebook,positive,sports,2125,2980,212,2026-01-06 16:15:09.170254, #sports #Facebook
-post_0033,user_027,Discussion about YouTube features.What do you think? #sports #YouTube,neutral,sports,8079,4655,345,2026-01-10 01:15:09.170254, #sports #YouTube
-post_0034,user_001,Really disappointed with TikTok.Excepted better #health #TikTok,negative,health,7378,1016,947,2026-01-20 08:15:09.170254, #health #TikTok
-post_0035,user_043,The state politics is concerning. Need urgent action #politics #Instagram,negative,politics,1561,2463,598,2026-01-08 04:15:09.170254, #politics #Instagram
-post_0036,user_030,Interesting article about technology.Worth reading. #technology #Twitter,neutral,technology,3418,3609,465,2025-12-28 19:15:09.170254, #technology #Twitter
-post_0037,user_045,Loving the new features in Twitter. Game changer! #science #Twitter,positive,science,371,506,171,2025-12-23 08:15:09.170254, #science #Twitter
-post_0038,user_045,Änalysis of recent science developments. #science #TikTok,neutral,science,5672,3595,932,2026-01-16 09:15:09.170254, #science #TikTok
-post_0039,user_018,Loving the new features in TikTok. Game changer! #sports #TikTok,positive,sports,3619,4510,663,2025-12-23 14:15:09.170254, #sports #TikTok
-post_0040,user_001,Just had an amazing experience with Instagram! Highly recommend #health #Instagram,positive,health,299,4215,54,2026-01-06 12:15:09.170254, #health #Instagram
-post_0041,user_029,New study shows trends iin ML. Data attached. #technology #Instagram,neutral,technology,9955,1400,644,2026-01-06 21:15:09.170254, #technology #Instagram
-post_0042,user_023,Discussion about TikTok features.What do you think? #technology #TikTok,neutral,technology,5684,637,63,2026-01-07 01:15:09.170254, #technology #TikTok
-post_0043,user_016,Great to see progress in programming. Well done everyone! #entertainment #YouTube,positive,entertainment,6523,1292,364,2025-12-26 01:15:09.170254, #entertainment #YouTube
-post_0044,user_004,The state sports is concerning. Need urgent action #sports #Facebook,negative,sports,7165,2932,215,2025-12-30 12:15:09.170254, #sports #Facebook
-post_0045,user_014,Just had an amazing experience with YouTube! Highly recommend #politics #YouTube,positive,politics,9074,2697,398,2026-01-19 20:15:09.170254, #politics #YouTube
-post_0046,user_046,Really disappointed with Twitter.Excepted better #politics #Twitter,negative,politics,5002,1529,229,2025-12-31 22:15:09.170254, #politics #Twitter
-post_0047,user_006,Discussion about Facebook features.What do you think? #health #Facebook,neutral,health,293,865,777,2026-01-01 01:15:09.170254, #health #Facebook
-post_0048,user_010,The state technology is concerning. Need urgent action #technology #YouTube,negative,technology,6419,4812,730,2026-01-18 04:15:09.170254, #technology #YouTube
-post_0049,user_001,The state technology is concerning. Need urgent action #technology #TikTok,negative,technology,5350,3828,710,2026-01-07 10:15:09.170254, #technology #TikTok
-post_0050,user_045,Facebook needs serious improvements. Not impressed #health #Facebook,negative,health,835,3923,279,2025-12-26 10:15:09.170254, #health #Facebook
-post_0051,user_040,Discussion about YouTube features.What do you think? #health #YouTube,neutral,health,1569,72,475,2025-12-29 18:15:09.170254, #health #YouTube
-post_0052,user_039,Änalysis of recent health developments. #health #TikTok,neutral,health,5903,2926,386,2026-01-04 09:15:09.170254, #health #TikTok
-post_0053,user_038,Änalysis of recent health developments. #health #Facebook,neutral,health,8075,4847,773,2025-12-27 04:15:09.170254, #health #Facebook
-post_0054,user_000,Twitter needs serious improvements. Not impressed #science #Twitter,negative,science,3256,1855,685,2026-01-19 20:15:09.171244, #science #Twitter
-post_0055,user_007,Great to see progress in programming. Well done everyone! #sports #YouTube,positive,sports,9956,4620,462,2025-12-28 13:15:09.171244, #sports #YouTube
-post_0056,user_020,New study shows trends iin programming. Data attached. #politics #Facebook,neutral,politics,1073,3982,638,2025-12-29 00:15:09.171244, #politics #Facebook
-post_0057,user_033,TikTok needs serious improvements. Not impressed #sports #TikTok,negative,sports,2677,127,782,2026-01-13 17:15:09.171244, #sports #TikTok
-post_0058,user_021,Änalysis of recent entertainment developments. #entertainment #TikTok,neutral,entertainment,1140,4921,860,2025-12-29 21:15:09.171244, #entertainment #TikTok
-post_0059,user_048,Loving the new features in TikTok. Game changer! #entertainment #TikTok,positive,entertainment,9266,2579,636,2026-01-01 11:15:09.171244, #entertainment #TikTok
-post_0060,user_006,Really disappointed with Instagram.Excepted better #science #Instagram,negative,science,7447,3198,723,2026-01-12 07:15:09.171244, #science #Instagram
-post_0061,user_022,New study shows trends iin data science. Data attached. #health #Instagram,neutral,health,8452,76,683,2026-01-03 12:15:09.171244, #health #Instagram
-post_0062,user_044,So excited about the new technology developments.Future is bright #technology #Instagram,positive,technology,4883,2105,88,2026-01-03 23:15:09.171244, #technology #Instagram
-post_0063,user_049,Discussion about Twitter features.What do you think? #sports #Twitter,neutral,sports,7944,842,45,2026-01-18 03:15:09.171244, #sports #Twitter
-post_0064,user_032,The state health is concerning. Need urgent action #health #Facebook,negative,health,4312,4268,298,2025-12-28 22:15:09.171244, #health #Facebook
-post_0065,user_028,Interesting article about science.Worth reading. #science #TikTok,neutral,science,8062,4627,466,2026-01-17 18:15:09.171244, #science #TikTok
-post_0066,user_042,Frustrated with the lack of progress in data science. #health #Facebook,negative,health,8156,3209,557,2026-01-17 20:15:09.171244, #health #Facebook
-post_0067,user_034,Loving the new features in TikTok. Game changer! #science #TikTok,positive,science,9060,4847,117,2026-01-09 05:15:09.171244, #science #TikTok
-post_0068,user_009,Interesting article about science.Worth reading. #science #Facebook,neutral,science,1433,4128,524,2025-12-26 00:15:09.171244, #science #Facebook
-post_0069,user_014,Änalysis of recent health developments. #health #TikTok,neutral,health,1939,526,913,2026-01-11 17:15:09.171244, #health #TikTok
-post_0070,user_044,The state science is concerning. Need urgent action #science #Facebook,negative,science,3745,1782,33,2026-01-07 00:15:09.171244, #science #Facebook
-post_0071,user_045,Facebook needs serious improvements. Not impressed #science #Facebook,negative,science,1622,832,500,2025-12-24 09:15:09.171244, #science #Facebook
-post_0072,user_042,Loving the new features in YouTube. Game changer! #technology #YouTube,positive,technology,6103,1210,359,2026-01-18 05:15:09.171244, #technology #YouTube
-post_0073,user_042,Discussion about TikTok features.What do you think? #health #TikTok,neutral,health,2448,3022,25,2025-12-24 17:15:09.171244, #health #TikTok
-post_0074,user_012,Facebook needs serious improvements. Not impressed #health #Facebook,negative,health,2811,4742,289,2026-01-14 06:15:09.171244, #health #Facebook
-post_0075,user_019,Great to see progress in ML. Well done everyone! #politics #Instagram,positive,politics,5015,3812,879,2025-12-31 04:15:09.171244, #politics #Instagram
-post_0076,user_030,The state sports is concerning. Need urgent action #sports #Instagram,negative,sports,28,3066,572,2026-01-19 19:15:09.171244, #sports #Instagram
-post_0077,user_034,Änalysis of recent health developments. #health #Facebook,neutral,health,4216,2019,335,2026-01-12 13:15:09.172239, #health #Facebook
-post_0078,user_022,Discussion about YouTube features.What do you think? #health #YouTube,neutral,health,9997,4336,485,2025-12-28 04:15:09.172239, #health #YouTube
-post_0079,user_002,Great to see progress in programming. Well done everyone! #science #TikTok,positive,science,6128,4202,420,2026-01-05 07:15:09.172239, #science #TikTok
-post_0080,user_016,Loving the new features in Facebook. Game changer! #sports #Facebook,positive,sports,2753,3982,988,2026-01-04 06:15:09.172239, #sports #Facebook
-post_0081,user_015,Änalysis of recent health developments. #health #Twitter,neutral,health,8993,4117,592,2025-12-27 21:15:09.172239, #health #Twitter
-post_0082,user_001,New study shows trends iin programming. Data attached. #technology #Instagram,neutral,technology,9578,913,32,2026-01-08 10:15:09.172239, #technology #Instagram
-post_0083,user_022,Änalysis of recent politics developments. #politics #Instagram,neutral,politics,8828,882,930,2026-01-02 17:15:09.172239, #politics #Instagram
-post_0084,user_009,Loving the new features in YouTube. Game changer! #entertainment #YouTube,positive,entertainment,975,1203,954,2026-01-15 05:15:09.172239, #entertainment #YouTube
-post_0085,user_047,So excited about the new sports developments.Future is bright #sports #Instagram,positive,sports,7904,1267,667,2026-01-05 01:15:09.172239, #sports #Instagram
-post_0086,user_010,Frustrated with the lack of progress in programming. #entertainment #YouTube,negative,entertainment,5225,389,476,2025-12-24 14:15:09.172239, #entertainment #YouTube
-post_0087,user_020,Great to see progress in data science. Well done everyone! #entertainment #Twitter,positive,entertainment,4516,1445,711,2025-12-27 20:15:09.172239, #entertainment #Twitter
-post_0088,user_019,Really disappointed with YouTube.Excepted better #politics #YouTube,negative,politics,9610,2673,592,2025-12-24 11:15:09.172239, #politics #YouTube
-post_0089,user_024,Discussion about YouTube features.What do you think? #science #YouTube,neutral,science,6002,3013,706,2026-01-13 04:15:09.172239, #science #YouTube
-post_0090,user_038,Twitter needs serious improvements. Not impressed #technology #Twitter,negative,technology,1161,2422,931,2026-01-07 19:15:09.172239, #technology #Twitter
-post_0091,user_043,So excited about the new science developments.Future is bright #science #YouTube,positive,science,7293,314,184,2026-01-09 07:15:09.172239, #science #YouTube
-post_0092,user_034,Great to see progress in data science. Well done everyone! #sports #Twitter,positive,sports,3598,3337,118,2026-01-14 01:15:09.172239, #sports #Twitter
-post_0093,user_044,Discussion about Instagram features.What do you think? #technology #Instagram,neutral,technology,1510,1156,525,2026-01-07 15:15:09.172239, #technology #Instagram
-post_0094,user_001,New study shows trends iin data science. Data attached. #sports #Twitter,neutral,sports,7540,4112,111,2026-01-17 10:15:09.172239, #sports #Twitter
-post_0095,user_016,Great to see progress in ML. Well done everyone! #technology #YouTube,positive,technology,6582,2155,249,2025-12-29 07:15:09.172239, #technology #YouTube
-post_0096,user_023,Really disappointed with YouTube.Excepted better #politics #YouTube,negative,politics,9989,895,275,2026-01-01 08:15:09.172239, #politics #YouTube
-post_0097,user_020,New study shows trends iin AI. Data attached. #health #YouTube,neutral,health,2029,4513,85,2026-01-05 11:15:09.172239, #health #YouTube
-post_0098,user_037,Great to see progress in data science. Well done everyone! #technology #YouTube,positive,technology,6261,4250,935,2025-12-29 05:15:09.172239, #technology #YouTube
-post_0099,user_048,Interesting article about health.Worth reading. #health #YouTube,neutral,health,5611,3030,649,2025-12-24 15:15:09.172239, #health #YouTube
-post_0100,user_049,So excited about the new technology developments.Future is bright #technology #Twitter,positive,technology,5037,90,474,2025-12-23 01:15:09.172239, #technology #Twitter
-post_0101,user_008,Really disappointed with Instagram.Excepted better #sports #Instagram,negative,sports,6417,690,89,2025-12-25 08:15:09.172239, #sports #Instagram
-post_0102,user_019,So excited about the new politics developments.Future is bright #politics #Instagram,positive,politics,5406,1926,543,2026-01-21 01:15:09.172239, #politics #Instagram
-post_0103,user_028,Discussion about YouTube features.What do you think? #science #YouTube,neutral,science,3449,2390,818,2026-01-10 19:15:09.172239, #science #YouTube
-post_0104,user_043,Änalysis of recent sports developments. #sports #Twitter,neutral,sports,2175,2049,95,2025-12-24 22:15:09.172239, #sports #Twitter
-post_0105,user_006,Loving the new features in Twitter. Game changer! #science #Twitter,positive,science,636,1925,481,2026-01-05 14:15:09.173246, #science #Twitter
-post_0106,user_029,YouTube needs serious improvements. Not impressed #science #YouTube,negative,science,1122,3155,608,2025-12-23 05:15:09.173246, #science #YouTube
-post_0107,user_007,Interesting article about politics.Worth reading. #politics #Instagram,neutral,politics,7970,252,410,2026-01-17 05:15:09.173246, #politics #Instagram
-post_0108,user_001,Interesting article about technology.Worth reading. #technology #YouTube,neutral,technology,4703,1107,314,2026-01-05 19:15:09.173246, #technology #YouTube
-post_0109,user_032,Frustrated with the lack of progress in ML. #science #YouTube,negative,science,9491,1101,665,2026-01-05 17:15:09.173246, #science #YouTube
-post_0110,user_017,So excited about the new health developments.Future is bright #health #YouTube,positive,health,6662,1937,500,2026-01-12 13:15:09.173246, #health #YouTube
-post_0111,user_008,Discussion about Twitter features.What do you think? #sports #Twitter,neutral,sports,7341,3311,705,2026-01-17 07:15:09.173246, #sports #Twitter
-post_0112,user_003,Really disappointed with Instagram.Excepted better #health #Instagram,negative,health,5785,1726,193,2025-12-26 17:15:09.173246, #health #Instagram
-post_0113,user_035,Frustrated with the lack of progress in programming. #politics #Twitter,negative,politics,6046,3938,346,2026-01-21 14:15:09.173246, #politics #Twitter
-post_0114,user_040,Just had an amazing experience with Twitter! Highly recommend #health #Twitter,positive,health,2310,4216,729,2026-01-12 05:15:09.173246, #health #Twitter
-post_0115,user_025,Great to see progress in data science. Well done everyone! #health #TikTok,positive,health,3859,1289,292,2026-01-16 05:15:09.173246, #health #TikTok
-post_0116,user_017,Great to see progress in data science. Well done everyone! #health #Facebook,positive,health,5769,1810,774,2026-01-17 07:15:09.173246, #health #Facebook
-post_0117,user_034,New study shows trends iin data science. Data attached. #science #Facebook,neutral,science,1411,4849,493,2025-12-30 16:15:09.173246, #science #Facebook
-post_0118,user_021,So excited about the new science developments.Future is bright #science #YouTube,positive,science,6113,2698,95,2026-01-09 03:15:09.173246, #science #YouTube
-post_0119,user_027,Loving the new features in YouTube. Game changer! #entertainment #YouTube,positive,entertainment,6580,2299,742,2025-12-25 02:15:09.173246, #entertainment #YouTube
-post_0120,user_012,Just had an amazing experience with YouTube! Highly recommend #science #YouTube,positive,science,1913,1402,887,2026-01-05 12:15:09.173246, #science #YouTube
-post_0121,user_009,Just had an amazing experience with YouTube! Highly recommend #entertainment #YouTube,positive,entertainment,1650,4497,119,2026-01-19 05:15:09.173246, #entertainment #YouTube
-post_0122,user_035,So excited about the new politics developments.Future is bright #politics #TikTok,positive,politics,9714,4033,666,2026-01-01 18:15:09.173246, #politics #TikTok
-post_0123,user_025,The state science is concerning. Need urgent action #science #YouTube,negative,science,8610,789,245,2026-01-04 16:15:09.173246, #science #YouTube
-post_0124,user_028,Really disappointed with TikTok.Excepted better #entertainment #TikTok,negative,entertainment,8945,2285,262,2026-01-05 10:15:09.173246, #entertainment #TikTok
-post_0125,user_003,Great to see progress in data science. Well done everyone! #technology #Facebook,positive,technology,3188,3644,28,2026-01-10 10:15:09.173246, #technology #Facebook
-post_0126,user_005,New study shows trends iin ML. Data attached. #technology #TikTok,neutral,technology,5709,506,189,2025-12-24 05:15:09.173246, #technology #TikTok
-post_0127,user_001,Really disappointed with YouTube.Excepted better #entertainment #YouTube,negative,entertainment,2698,4300,259,2026-01-12 15:15:09.173246, #entertainment #YouTube
-post_0128,user_030,Really disappointed with Instagram.Excepted better #entertainment #Instagram,negative,entertainment,8419,785,363,2025-12-24 07:15:09.173246, #entertainment #Instagram
-post_0129,user_027,Just had an amazing experience with Twitter! Highly recommend #technology #Twitter,positive,technology,6786,3794,670,2026-01-01 04:15:09.173246, #technology #Twitter
-post_0130,user_047,The state entertainment is concerning. Need urgent action #entertainment #YouTube,negative,entertainment,1246,2354,781,2025-12-30 15:15:09.173246, #entertainment #YouTube
-post_0131,user_005,The state sports is concerning. Need urgent action #sports #Facebook,negative,sports,658,3737,784,2025-12-28 15:15:09.173246, #sports #Facebook
-post_0132,user_016,Loving the new features in Instagram. Game changer! #technology #Instagram,positive,technology,8972,3456,195,2026-01-21 15:15:09.173246, #technology #Instagram
-post_0133,user_037,Just had an amazing experience with Facebook! Highly recommend #sports #Facebook,positive,sports,6408,3131,777,2026-01-14 12:15:09.173246, #sports #Facebook
-post_0134,user_028,Discussion about TikTok features.What do you think? #health #TikTok,neutral,health,4698,4852,192,2026-01-10 16:15:09.173246, #health #TikTok
-post_0135,user_035,Really disappointed with YouTube.Excepted better #politics #YouTube,negative,politics,692,377,248,2026-01-11 03:15:09.173246, #politics #YouTube
-post_0136,user_030,New study shows trends iin AI. Data attached. #sports #YouTube,neutral,sports,7916,1814,602,2025-12-22 22:15:09.173246, #sports #YouTube
-post_0137,user_044,Interesting article about technology.Worth reading. #technology #Facebook,neutral,technology,2494,1120,71,2026-01-20 19:15:09.173246, #technology #Facebook
-post_0138,user_042,Really disappointed with Twitter.Excepted better #sports #Twitter,negative,sports,8364,4209,790,2025-12-29 15:15:09.173246, #sports #Twitter
-post_0139,user_004,So excited about the new entertainment developments.Future is bright #entertainment #TikTok,positive,entertainment,90,2643,226,2025-12-26 01:15:09.173246, #entertainment #TikTok
-post_0140,user_033,Loving the new features in Facebook. Game changer! #entertainment #Facebook,positive,entertainment,8885,2888,198,2026-01-11 22:15:09.173246, #entertainment #Facebook
-post_0141,user_025,Really disappointed with TikTok.Excepted better #entertainment #TikTok,negative,entertainment,8445,4923,906,2026-01-16 16:15:09.173246, #entertainment #TikTok
-post_0142,user_024,Facebook needs serious improvements. Not impressed #sports #Facebook,negative,sports,3828,4661,78,2026-01-18 12:15:09.173246, #sports #Facebook
-post_0143,user_035,The state health is concerning. Need urgent action #health #Instagram,negative,health,9555,168,224,2026-01-14 23:15:09.173246, #health #Instagram
-post_0144,user_017,Frustrated with the lack of progress in AI. #health #Instagram,negative,health,4571,3626,547,2026-01-05 15:15:09.174244, #health #Instagram
-post_0145,user_018,Discussion about Facebook features.What do you think? #entertainment #Facebook,neutral,entertainment,6304,1296,718,2026-01-14 11:15:09.174244, #entertainment #Facebook
-post_0146,user_005,Really disappointed with Instagram.Excepted better #health #Instagram,negative,health,2590,4282,667,2026-01-13 21:15:09.174244, #health #Instagram
-post_0147,user_046,Änalysis of recent entertainment developments. #entertainment #Facebook,neutral,entertainment,8246,4808,279,2026-01-02 18:15:09.174244, #entertainment #Facebook
-post_0148,user_026,Interesting article about health.Worth reading. #health #TikTok,neutral,health,6942,1880,452,2026-01-10 00:15:09.174244, #health #TikTok
-post_0149,user_016,Great to see progress in ML. Well done everyone! #technology #Twitter,positive,technology,4659,2072,571,2026-01-09 10:15:09.174244, #technology #Twitter
-post_0150,user_035,So excited about the new science developments.Future is bright #science #Twitter,positive,science,7080,598,753,2026-01-04 08:15:09.174244, #science #Twitter
-post_0151,user_014,Loving the new features in Instagram. Game changer! #health #Instagram,positive,health,6010,2930,338,2025-12-31 14:15:09.174244, #health #Instagram
-post_0152,user_017,Interesting article about health.Worth reading. #health #Twitter,neutral,health,5883,4672,621,2026-01-08 18:15:09.174244, #health #Twitter
-post_0153,user_015,Just had an amazing experience with YouTube! Highly recommend #science #YouTube,positive,science,8904,3398,16,2026-01-08 16:15:09.174244, #science #YouTube
-post_0154,user_003,New study shows trends iin ML. Data attached. #technology #Facebook,neutral,technology,8836,4007,809,2026-01-21 10:15:09.174244, #technology #Facebook
-post_0155,user_006,So excited about the new science developments.Future is bright #science #YouTube,positive,science,7912,4746,906,2025-12-30 10:15:09.174244, #science #YouTube
-post_0156,user_007,TikTok needs serious improvements. Not impressed #sports #TikTok,negative,sports,2138,4833,548,2025-12-29 03:15:09.174244, #sports #TikTok
-post_0157,user_006,New study shows trends iin data science. Data attached. #sports #Twitter,neutral,sports,7954,1065,906,2026-01-07 07:15:09.174244, #sports #Twitter
-post_0158,user_001,Just had an amazing experience with TikTok! Highly recommend #health #TikTok,positive,health,5632,2125,992,2026-01-15 20:15:09.174244, #health #TikTok
-post_0159,user_044,Discussion about Facebook features.What do you think? #health #Facebook,neutral,health,2277,3141,988,2026-01-11 00:15:09.174244, #health #Facebook
-post_0160,user_028,The state health is concerning. Need urgent action #health #Facebook,negative,health,9689,1308,4,2026-01-20 11:15:09.174244, #health #Facebook
-post_0161,user_006,Loving the new features in YouTube. Game changer! #sports #YouTube,positive,sports,2856,596,332,2026-01-11 03:15:09.174244, #sports #YouTube
-post_0162,user_038,Discussion about TikTok features.What do you think? #politics #TikTok,neutral,politics,6175,897,529,2026-01-06 08:15:09.174244, #politics #TikTok
-post_0163,user_047,Interesting article about science.Worth reading. #science #Facebook,neutral,science,5023,1704,817,2026-01-21 14:15:09.174244, #science #Facebook
-post_0164,user_044,Interesting article about health.Worth reading. #health #Twitter,neutral,health,4822,463,615,2026-01-18 18:15:09.174244, #health #Twitter
-post_0165,user_017,New study shows trends iin AI. Data attached. #health #Instagram,neutral,health,7018,48,963,2026-01-19 21:15:09.174244, #health #Instagram
-post_0166,user_001,Great to see progress in data science. Well done everyone! #sports #Instagram,positive,sports,2649,2209,579,2026-01-14 07:15:09.174244, #sports #Instagram
-post_0167,user_039,Really disappointed with Instagram.Excepted better #technology #Instagram,negative,technology,1874,3477,4,2026-01-07 06:15:09.174244, #technology #Instagram
-post_0168,user_048,Great to see progress in ML. Well done everyone! #science #TikTok,positive,science,9383,906,668,2025-12-26 07:15:09.174244, #science #TikTok
-post_0169,user_011,So excited about the new health developments.Future is bright #health #Facebook,positive,health,440,616,357,2026-01-07 14:15:09.174244, #health #Facebook
-post_0170,user_015,Loving the new features in YouTube. Game changer! #entertainment #YouTube,positive,entertainment,7558,1799,298,2025-12-24 19:15:09.174244, #entertainment #YouTube
-post_0171,user_032,YouTube needs serious improvements. Not impressed #politics #YouTube,negative,politics,8871,3224,583,2025-12-30 07:15:09.174244, #politics #YouTube
-post_0172,user_008,Loving the new features in Facebook. Game changer! #technology #Facebook,positive,technology,4047,1436,666,2026-01-08 09:15:09.174244, #technology #Facebook
-post_0173,user_009,Änalysis of recent sports developments. #sports #Twitter,neutral,sports,8741,3616,463,2026-01-15 08:15:09.174244, #sports #Twitter
-post_0174,user_031,Frustrated with the lack of progress in AI. #sports #Twitter,negative,sports,7576,3683,283,2025-12-31 03:15:09.174244, #sports #Twitter
-post_0175,user_014,Discussion about Twitter features.What do you think? #politics #Twitter,neutral,politics,2048,2609,507,2026-01-07 23:15:09.174244, #politics #Twitter
-post_0176,user_042,Twitter needs serious improvements. Not impressed #technology #Twitter,negative,technology,866,3675,884,2025-12-23 21:15:09.174244, #technology #Twitter
-post_0177,user_018,Facebook needs serious improvements. Not impressed #technology #Facebook,negative,technology,5302,107,720,2026-01-10 08:15:09.174244, #technology #Facebook
-post_0178,user_037,The state politics is concerning. Need urgent action #politics #YouTube,negative,politics,3903,711,639,2025-12-25 05:15:09.175244, #politics #YouTube
-post_0179,user_031,Discussion about Instagram features.What do you think? #science #Instagram,neutral,science,7901,2765,421,2026-01-08 21:15:09.175244, #science #Instagram
-post_0180,user_005,New study shows trends iin programming. Data attached. #entertainment #Facebook,neutral,entertainment,5174,3602,123,2025-12-30 22:15:09.175244, #entertainment #Facebook
-post_0181,user_027,Great to see progress in programming. Well done everyone! #health #TikTok,positive,health,3822,587,727,2026-01-05 22:15:09.175244, #health #TikTok
-post_0182,user_046,Really disappointed with Twitter.Excepted better #science #Twitter,negative,science,7201,279,456,2026-01-15 23:15:09.175244, #science #Twitter
-post_0183,user_047,So excited about the new science developments.Future is bright #science #Facebook,positive,science,668,1728,839,2026-01-15 15:15:09.175244, #science #Facebook
-post_0184,user_039,Interesting article about sports.Worth reading. #sports #Instagram,neutral,sports,4519,2466,702,2026-01-13 12:15:09.175244, #sports #Instagram
-post_0185,user_032,Instagram needs serious improvements. Not impressed #health #Instagram,negative,health,8210,2477,761,2026-01-11 10:15:09.175244, #health #Instagram
-post_0186,user_001,Interesting article about sports.Worth reading. #sports #Instagram,neutral,sports,2447,699,475,2026-01-21 19:15:09.175244, #sports #Instagram
-post_0187,user_004,Frustrated with the lack of progress in programming. #technology #YouTube,negative,technology,1491,880,699,2026-01-03 06:15:09.175244, #technology #YouTube
-post_0188,user_043,Discussion about Instagram features.What do you think? #health #Instagram,neutral,health,4797,1782,710,2025-12-27 17:15:09.175244, #health #Instagram
-post_0189,user_018,The state entertainment is concerning. Need urgent action #entertainment #Twitter,negative,entertainment,7946,3559,896,2025-12-29 15:15:09.175244, #entertainment #Twitter
-post_0190,user_009,Frustrated with the lack of progress in ML. #sports #YouTube,negative,sports,156,2245,953,2025-12-25 03:15:09.175244, #sports #YouTube
-post_0191,user_028,Loving the new features in YouTube. Game changer! #entertainment #YouTube,positive,entertainment,1405,79,843,2026-01-20 11:15:09.175244, #entertainment #YouTube
-post_0192,user_036,Discussion about Twitter features.What do you think? #politics #Twitter,neutral,politics,5524,2785,444,2025-12-28 18:15:09.175244, #politics #Twitter
-post_0193,user_047,Änalysis of recent politics developments. #politics #Instagram,neutral,politics,2936,538,760,2026-01-07 23:15:09.175244, #politics #Instagram
-post_0194,user_000,New study shows trends iin data science. Data attached. #entertainment #TikTok,neutral,entertainment,3662,2007,551,2026-01-05 10:15:09.175244, #entertainment #TikTok
-post_0195,user_015,YouTube needs serious improvements. Not impressed #science #YouTube,negative,science,7068,4258,796,2026-01-05 01:15:09.175244, #science #YouTube
-post_0196,user_030,Great to see progress in data science. Well done everyone! #technology #Instagram,positive,technology,2933,3571,394,2026-01-17 10:15:09.175244, #technology #Instagram
-post_0197,user_045,Instagram needs serious improvements. Not impressed #science #Instagram,negative,science,5080,1491,425,2026-01-14 22:15:09.175244, #science #Instagram
-post_0198,user_029,New study shows trends iin programming. Data attached. #technology #Facebook,neutral,technology,1305,1831,214,2026-01-21 17:15:09.175244, #technology #Facebook
-post_0199,user_012,Discussion about Instagram features.What do you think? #health #Instagram,neutral,health,7727,2543,926,2026-01-02 12:15:09.175244, #health #Instagram
+post_0000,user_044,YouTube needs serious improvements. Not impressed #entertainment #YouTube,negative,entertainment,7283,1214,508,2026-01-16 06:44:44.969056, #entertainment #YouTube
+post_0001,user_000,The state health is concerning. Need urgent action #health #Instagram,negative,health,1611,2792,334,2026-01-08 20:44:44.969056, #health #Instagram
+post_0002,user_021,Interesting article about technology.Worth reading. #technology #TikTok,neutral,technology,1100,930,805,2026-01-03 02:44:44.969056, #technology #TikTok
+post_0003,user_024,Really disappointed with Instagram.Excepted better #science #Instagram,negative,science,1747,2683,12,2026-01-13 10:44:44.969056, #science #Instagram
+post_0004,user_008,The state health is concerning. Need urgent action #health #Facebook,negative,health,4320,668,499,2025-12-24 16:44:44.969056, #health #Facebook
+post_0005,user_023,Discussion about YouTube features.What do you think? #entertainment #YouTube,neutral,entertainment,1709,1905,723,2026-01-18 01:44:44.969056, #entertainment #YouTube
+post_0006,user_040,Discussion about Twitter features.What do you think? #sports #Twitter,neutral,sports,6412,4499,41,2025-12-26 14:44:44.969056, #sports #Twitter
+post_0007,user_028,So excited about the new sports developments.Future is bright #sports #YouTube,positive,sports,4558,2529,516,2026-01-12 15:44:44.969056, #sports #YouTube
+post_0008,user_004,Just had an amazing experience with Instagram! Highly recommend #politics #Instagram,positive,politics,1575,2143,572,2025-12-29 07:44:44.969056, #politics #Instagram
+post_0009,user_012,Really disappointed with YouTube.Excepted better #politics #YouTube,negative,politics,4015,188,165,2026-01-08 05:44:44.970064, #politics #YouTube
+post_0010,user_017,Änalysis of recent technology developments. #technology #Instagram,neutral,technology,6330,374,61,2025-12-26 06:44:44.970064, #technology #Instagram
+post_0011,user_045,So excited about the new entertainment developments.Future is bright #entertainment #Twitter,positive,entertainment,6979,3473,491,2026-01-16 13:44:44.970064, #entertainment #Twitter
+post_0012,user_040,Loving the new features in Twitter. Game changer! #sports #Twitter,positive,sports,9770,2011,599,2026-01-19 11:44:44.970064, #sports #Twitter
+post_0013,user_019,Really disappointed with Instagram.Excepted better #politics #Instagram,negative,politics,6471,1705,362,2026-01-19 22:44:44.970064, #politics #Instagram
+post_0014,user_023,Loving the new features in Instagram. Game changer! #science #Instagram,positive,science,8185,802,431,2026-01-08 07:44:44.970064, #science #Instagram
+post_0015,user_000,Frustrated with the lack of progress in programming. #science #YouTube,negative,science,9517,2103,134,2026-01-03 12:44:44.970064, #science #YouTube
+post_0016,user_004,YouTube needs serious improvements. Not impressed #sports #YouTube,negative,sports,5332,1043,498,2025-12-23 14:44:44.970064, #sports #YouTube
+post_0017,user_047,So excited about the new entertainment developments.Future is bright #entertainment #Twitter,positive,entertainment,8112,4775,121,2026-01-03 21:44:44.970064, #entertainment #Twitter
+post_0018,user_030,Loving the new features in Twitter. Game changer! #entertainment #Twitter,positive,entertainment,9433,1987,540,2026-01-02 18:44:44.970064, #entertainment #Twitter
+post_0019,user_030,New study shows trends iin programming. Data attached. #entertainment #Facebook,neutral,entertainment,4883,204,502,2026-01-20 01:44:44.970064, #entertainment #Facebook
+post_0020,user_044,So excited about the new science developments.Future is bright #science #Facebook,positive,science,88,1790,845,2025-12-24 11:44:44.970064, #science #Facebook
+post_0021,user_035,Great to see progress in ML. Well done everyone! #entertainment #YouTube,positive,entertainment,9596,3218,844,2026-01-21 05:44:44.970064, #entertainment #YouTube
+post_0022,user_031,Loving the new features in Facebook. Game changer! #politics #Facebook,positive,politics,8973,4216,285,2026-01-01 09:44:44.970064, #politics #Facebook
+post_0023,user_010,Frustrated with the lack of progress in programming. #sports #Instagram,negative,sports,2205,1703,876,2026-01-14 22:44:44.970064, #sports #Instagram
+post_0024,user_008,Interesting article about science.Worth reading. #science #Instagram,neutral,science,8681,4983,604,2026-01-04 09:44:44.970064, #science #Instagram
+post_0025,user_006,Interesting article about politics.Worth reading. #politics #Facebook,neutral,politics,8680,2126,894,2026-01-11 17:44:44.970064, #politics #Facebook
+post_0026,user_033,Discussion about Facebook features.What do you think? #sports #Facebook,neutral,sports,5500,2504,815,2025-12-28 16:44:44.970064, #sports #Facebook
+post_0027,user_008,So excited about the new sports developments.Future is bright #sports #Instagram,positive,sports,7134,1045,514,2026-01-07 00:44:44.970064, #sports #Instagram
+post_0028,user_026,Great to see progress in programming. Well done everyone! #entertainment #Facebook,positive,entertainment,5330,3609,263,2026-01-16 01:44:44.970064, #entertainment #Facebook
+post_0029,user_008,Instagram needs serious improvements. Not impressed #politics #Instagram,negative,politics,3781,1750,775,2026-01-21 00:44:44.970064, #politics #Instagram
+post_0030,user_046,Interesting article about health.Worth reading. #health #Instagram,neutral,health,4123,1893,369,2026-01-14 02:44:44.970064, #health #Instagram
+post_0031,user_029,Great to see progress in data science. Well done everyone! #health #TikTok,positive,health,218,4636,310,2026-01-15 04:44:44.970064, #health #TikTok
+post_0032,user_046,Änalysis of recent politics developments. #politics #Facebook,neutral,politics,9258,2416,519,2025-12-30 06:44:44.970064, #politics #Facebook
+post_0033,user_015,Änalysis of recent health developments. #health #TikTok,neutral,health,9178,1215,357,2025-12-25 10:44:44.970064, #health #TikTok
+post_0034,user_021,Just had an amazing experience with TikTok! Highly recommend #sports #TikTok,positive,sports,8221,770,484,2026-01-19 02:44:44.970064, #sports #TikTok
+post_0035,user_045,Discussion about Facebook features.What do you think? #health #Facebook,neutral,health,4346,3620,477,2026-01-21 18:44:44.970064, #health #Facebook
+post_0036,user_037,The state sports is concerning. Need urgent action #sports #Instagram,negative,sports,5629,2609,453,2026-01-19 18:44:44.970064, #sports #Instagram
+post_0037,user_040,Interesting article about technology.Worth reading. #technology #YouTube,neutral,technology,9165,741,929,2025-12-31 20:44:44.970064, #technology #YouTube
+post_0038,user_018,Loving the new features in Facebook. Game changer! #health #Facebook,positive,health,2202,1646,402,2026-01-06 19:44:44.970064, #health #Facebook
+post_0039,user_033,The state health is concerning. Need urgent action #health #Twitter,negative,health,3597,13,515,2025-12-31 17:44:44.970064, #health #Twitter
+post_0040,user_008,Twitter needs serious improvements. Not impressed #politics #Twitter,negative,politics,9702,1286,276,2026-01-19 16:44:44.970064, #politics #Twitter
+post_0041,user_024,Änalysis of recent entertainment developments. #entertainment #Facebook,neutral,entertainment,6473,26,29,2026-01-20 07:44:44.970064, #entertainment #Facebook
+post_0042,user_028,Frustrated with the lack of progress in ML. #entertainment #Twitter,negative,entertainment,8965,2184,373,2026-01-10 17:44:44.970064, #entertainment #Twitter
+post_0043,user_037,Loving the new features in YouTube. Game changer! #entertainment #YouTube,positive,entertainment,4683,3282,860,2025-12-31 15:44:44.970064, #entertainment #YouTube
+post_0044,user_041,New study shows trends iin data science. Data attached. #sports #TikTok,neutral,sports,911,3640,310,2025-12-28 05:44:44.970064, #sports #TikTok
+post_0045,user_032,Interesting article about technology.Worth reading. #technology #Facebook,neutral,technology,6905,2166,33,2025-12-22 23:44:44.970064, #technology #Facebook
+post_0046,user_047,Loving the new features in Instagram. Game changer! #entertainment #Instagram,positive,entertainment,7255,3486,521,2025-12-27 17:44:44.970064, #entertainment #Instagram
+post_0047,user_029,Just had an amazing experience with YouTube! Highly recommend #sports #YouTube,positive,sports,2218,1147,239,2026-01-17 11:44:44.970064, #sports #YouTube
+post_0048,user_043,Interesting article about politics.Worth reading. #politics #Facebook,neutral,politics,8794,3349,512,2026-01-02 11:44:44.970064, #politics #Facebook
+post_0049,user_018,New study shows trends iin data science. Data attached. #sports #TikTok,neutral,sports,1040,4214,795,2025-12-29 10:44:44.971057, #sports #TikTok
+post_0050,user_010,Interesting article about entertainment.Worth reading. #entertainment #Instagram,neutral,entertainment,2973,4883,984,2026-01-20 00:44:44.971057, #entertainment #Instagram
+post_0051,user_036,Great to see progress in AI. Well done everyone! #entertainment #Facebook,positive,entertainment,557,1779,464,2025-12-27 18:44:44.971057, #entertainment #Facebook
+post_0052,user_039,The state technology is concerning. Need urgent action #technology #Facebook,negative,technology,2474,4180,51,2026-01-08 05:44:44.971057, #technology #Facebook
+post_0053,user_031,Loving the new features in Twitter. Game changer! #technology #Twitter,positive,technology,6623,3499,812,2026-01-16 18:44:44.971057, #technology #Twitter
+post_0054,user_009,Instagram needs serious improvements. Not impressed #sports #Instagram,negative,sports,5132,2134,271,2026-01-17 04:44:44.971057, #sports #Instagram
+post_0055,user_014,Frustrated with the lack of progress in data science. #politics #Twitter,negative,politics,297,3748,239,2026-01-01 01:44:44.971057, #politics #Twitter
+post_0056,user_045,Interesting article about technology.Worth reading. #technology #TikTok,neutral,technology,7324,2719,598,2026-01-18 21:44:44.971057, #technology #TikTok
+post_0057,user_003,Interesting article about technology.Worth reading. #technology #TikTok,neutral,technology,7241,3085,585,2026-01-06 22:44:44.971057, #technology #TikTok
+post_0058,user_008,The state health is concerning. Need urgent action #health #Instagram,negative,health,1714,4039,514,2026-01-11 02:44:44.971057, #health #Instagram
+post_0059,user_008,Really disappointed with YouTube.Excepted better #entertainment #YouTube,negative,entertainment,3959,2329,682,2026-01-04 19:44:44.971057, #entertainment #YouTube
+post_0060,user_000,The state sports is concerning. Need urgent action #sports #Facebook,negative,sports,773,4362,159,2025-12-30 00:44:44.971057, #sports #Facebook
+post_0061,user_025,New study shows trends iin AI. Data attached. #sports #Facebook,neutral,sports,4652,52,851,2025-12-24 13:44:44.971057, #sports #Facebook
+post_0062,user_009,Interesting article about sports.Worth reading. #sports #YouTube,neutral,sports,3914,3814,593,2026-01-11 15:44:44.971057, #sports #YouTube
+post_0063,user_029,The state science is concerning. Need urgent action #science #Instagram,negative,science,4131,1502,784,2026-01-20 21:44:44.971057, #science #Instagram
+post_0064,user_037,Really disappointed with Twitter.Excepted better #technology #Twitter,negative,technology,6942,347,243,2025-12-28 20:44:44.971057, #technology #Twitter
+post_0065,user_002,Interesting article about health.Worth reading. #health #Facebook,neutral,health,4998,1242,245,2026-01-10 01:44:44.971057, #health #Facebook
+post_0066,user_013,Discussion about Facebook features.What do you think? #science #Facebook,neutral,science,2009,880,357,2026-01-01 22:44:44.971057, #science #Facebook
+post_0067,user_013,Loving the new features in YouTube. Game changer! #technology #YouTube,positive,technology,8234,3020,215,2025-12-25 00:44:44.971057, #technology #YouTube
+post_0068,user_036,Just had an amazing experience with YouTube! Highly recommend #science #YouTube,positive,science,7624,284,359,2026-01-20 13:44:44.971057, #science #YouTube
+post_0069,user_034,Änalysis of recent health developments. #health #Instagram,neutral,health,8842,293,615,2026-01-20 07:44:44.971057, #health #Instagram
+post_0070,user_004,Discussion about Facebook features.What do you think? #technology #Facebook,neutral,technology,2068,911,298,2026-01-14 20:44:44.971057, #technology #Facebook
+post_0071,user_043,Twitter needs serious improvements. Not impressed #entertainment #Twitter,negative,entertainment,5283,4637,549,2026-01-12 15:44:44.971057, #entertainment #Twitter
+post_0072,user_015,Great to see progress in AI. Well done everyone! #science #TikTok,positive,science,2180,3489,868,2026-01-13 07:44:44.971057, #science #TikTok
+post_0073,user_037,Really disappointed with Twitter.Excepted better #health #Twitter,negative,health,1735,2369,484,2026-01-14 21:44:44.971057, #health #Twitter
+post_0074,user_033,So excited about the new politics developments.Future is bright #politics #Twitter,positive,politics,5196,1807,768,2026-01-16 18:44:44.971057, #politics #Twitter
+post_0075,user_008,Frustrated with the lack of progress in ML. #health #Facebook,negative,health,9943,1485,67,2026-01-06 08:44:44.971057, #health #Facebook
+post_0076,user_024,New study shows trends iin data science. Data attached. #science #Instagram,neutral,science,8968,2167,603,2025-12-29 15:44:44.971057, #science #Instagram
+post_0077,user_014,The state technology is concerning. Need urgent action #technology #Instagram,negative,technology,2976,2412,460,2025-12-30 22:44:44.971057, #technology #Instagram
+post_0078,user_034,Frustrated with the lack of progress in ML. #politics #YouTube,negative,politics,3092,2846,251,2026-01-01 05:44:44.971057, #politics #YouTube
+post_0079,user_027,Loving the new features in TikTok. Game changer! #sports #TikTok,positive,sports,1089,3839,443,2025-12-25 01:44:44.971057, #sports #TikTok
+post_0080,user_046,Discussion about Twitter features.What do you think? #science #Twitter,neutral,science,7583,2474,614,2026-01-07 15:44:44.971057, #science #Twitter
+post_0081,user_049,Discussion about Facebook features.What do you think? #entertainment #Facebook,neutral,entertainment,8078,4504,916,2026-01-13 21:44:44.971057, #entertainment #Facebook
+post_0082,user_011,Frustrated with the lack of progress in ML. #politics #YouTube,negative,politics,1042,4892,716,2026-01-18 22:44:44.971057, #politics #YouTube
+post_0083,user_047,Discussion about Facebook features.What do you think? #sports #Facebook,neutral,sports,899,3137,131,2026-01-04 09:44:44.972059, #sports #Facebook
+post_0084,user_035,Änalysis of recent politics developments. #politics #Instagram,neutral,politics,4961,3601,810,2026-01-17 02:44:44.972059, #politics #Instagram
+post_0085,user_038,New study shows trends iin data science. Data attached. #science #TikTok,neutral,science,3145,4491,914,2025-12-27 02:44:44.972059, #science #TikTok
+post_0086,user_013,Really disappointed with TikTok.Excepted better #science #TikTok,negative,science,9095,4206,736,2026-01-07 12:44:44.972059, #science #TikTok
+post_0087,user_045,Discussion about Twitter features.What do you think? #health #Twitter,neutral,health,986,826,305,2026-01-15 21:44:44.972059, #health #Twitter
+post_0088,user_032,Instagram needs serious improvements. Not impressed #health #Instagram,negative,health,7107,553,315,2026-01-11 01:44:44.972059, #health #Instagram
+post_0089,user_045,Frustrated with the lack of progress in data science. #sports #Instagram,negative,sports,9732,267,786,2025-12-29 12:44:44.972059, #sports #Instagram
+post_0090,user_034,Just had an amazing experience with Twitter! Highly recommend #technology #Twitter,positive,technology,9054,2848,116,2025-12-25 10:44:44.972059, #technology #Twitter
+post_0091,user_048,Just had an amazing experience with Instagram! Highly recommend #politics #Instagram,positive,politics,560,4753,23,2026-01-16 08:44:44.972059, #politics #Instagram
+post_0092,user_032,Facebook needs serious improvements. Not impressed #science #Facebook,negative,science,4641,3353,407,2025-12-30 05:44:44.972059, #science #Facebook
+post_0093,user_036,TikTok needs serious improvements. Not impressed #health #TikTok,negative,health,9265,2324,544,2025-12-29 14:44:44.972059, #health #TikTok
+post_0094,user_013,Just had an amazing experience with Instagram! Highly recommend #sports #Instagram,positive,sports,8385,16,16,2026-01-06 00:44:44.972059, #sports #Instagram
+post_0095,user_004,Discussion about TikTok features.What do you think? #technology #TikTok,neutral,technology,5310,2415,391,2026-01-02 07:44:44.972059, #technology #TikTok
+post_0096,user_010,Interesting article about entertainment.Worth reading. #entertainment #Instagram,neutral,entertainment,6937,3160,533,2026-01-05 09:44:44.972059, #entertainment #Instagram
+post_0097,user_003,Interesting article about health.Worth reading. #health #Instagram,neutral,health,9480,4224,621,2026-01-04 04:44:44.972059, #health #Instagram
+post_0098,user_028,Great to see progress in data science. Well done everyone! #technology #Twitter,positive,technology,8169,3462,370,2025-12-30 17:44:44.972059, #technology #Twitter
+post_0099,user_020,Discussion about Twitter features.What do you think? #politics #Twitter,neutral,politics,6560,3949,808,2026-01-19 23:44:44.972059, #politics #Twitter
+post_0100,user_021,The state entertainment is concerning. Need urgent action #entertainment #YouTube,negative,entertainment,6316,4791,447,2026-01-12 16:44:44.972059, #entertainment #YouTube
+post_0101,user_022,Loving the new features in Instagram. Game changer! #entertainment #Instagram,positive,entertainment,4420,4717,593,2026-01-13 10:44:44.972059, #entertainment #Instagram
+post_0102,user_015,Änalysis of recent science developments. #science #Facebook,neutral,science,8078,2600,38,2026-01-14 15:44:44.972059, #science #Facebook
+post_0103,user_043,Great to see progress in data science. Well done everyone! #entertainment #Instagram,positive,entertainment,1360,268,937,2025-12-28 14:44:44.972059, #entertainment #Instagram
+post_0104,user_006,Interesting article about technology.Worth reading. #technology #Instagram,neutral,technology,259,4263,308,2026-01-07 10:44:44.972059, #technology #Instagram
+post_0105,user_043,Frustrated with the lack of progress in programming. #politics #TikTok,negative,politics,2657,3026,470,2026-01-17 17:44:44.972059, #politics #TikTok
+post_0106,user_029,Just had an amazing experience with Facebook! Highly recommend #technology #Facebook,positive,technology,187,1238,564,2026-01-03 08:44:44.972059, #technology #Facebook
+post_0107,user_028,Loving the new features in TikTok. Game changer! #science #TikTok,positive,science,8276,3852,740,2026-01-12 18:44:44.972059, #science #TikTok
+post_0108,user_013,The state health is concerning. Need urgent action #health #Twitter,negative,health,4010,3040,6,2026-01-17 14:44:44.972059, #health #Twitter
+post_0109,user_031,TikTok needs serious improvements. Not impressed #technology #TikTok,negative,technology,9077,2824,321,2026-01-06 02:44:44.972059, #technology #TikTok
+post_0110,user_042,The state science is concerning. Need urgent action #science #Instagram,negative,science,9758,499,349,2025-12-24 15:44:44.972059, #science #Instagram
+post_0111,user_001,Really disappointed with Instagram.Excepted better #sports #Instagram,negative,sports,6244,2690,528,2026-01-04 09:44:44.972059, #sports #Instagram
+post_0112,user_004,Interesting article about politics.Worth reading. #politics #TikTok,neutral,politics,6394,1901,465,2026-01-16 14:44:44.972059, #politics #TikTok
+post_0113,user_048,New study shows trends iin AI. Data attached. #health #TikTok,neutral,health,8979,4750,180,2026-01-19 07:44:44.972059, #health #TikTok
+post_0114,user_044,Frustrated with the lack of progress in data science. #politics #Facebook,negative,politics,9178,1990,74,2026-01-14 03:44:44.972059, #politics #Facebook
+post_0115,user_049,Interesting article about technology.Worth reading. #technology #Facebook,neutral,technology,3249,1339,347,2025-12-25 02:44:44.972059, #technology #Facebook
+post_0116,user_030,Interesting article about politics.Worth reading. #politics #Facebook,neutral,politics,4284,2261,51,2026-01-01 10:44:44.972059, #politics #Facebook
+post_0117,user_037,TikTok needs serious improvements. Not impressed #health #TikTok,negative,health,9740,4199,966,2025-12-26 20:44:44.972059, #health #TikTok
+post_0118,user_000,Interesting article about technology.Worth reading. #technology #TikTok,neutral,technology,6365,1593,535,2026-01-19 20:44:44.972059, #technology #TikTok
+post_0119,user_016,Änalysis of recent politics developments. #politics #YouTube,neutral,politics,119,246,620,2026-01-03 02:44:44.972059, #politics #YouTube
+post_0120,user_032,TikTok needs serious improvements. Not impressed #science #TikTok,negative,science,41,959,171,2025-12-29 05:44:44.973057, #science #TikTok
+post_0121,user_011,Really disappointed with TikTok.Excepted better #politics #TikTok,negative,politics,9034,4710,203,2025-12-23 11:44:44.973057, #politics #TikTok
+post_0122,user_047,Loving the new features in Instagram. Game changer! #entertainment #Instagram,positive,entertainment,2627,3409,580,2026-01-17 12:44:44.973057, #entertainment #Instagram
+post_0123,user_038,Interesting article about technology.Worth reading. #technology #YouTube,neutral,technology,335,3815,274,2026-01-19 14:44:44.973057, #technology #YouTube
+post_0124,user_017,Frustrated with the lack of progress in programming. #entertainment #Instagram,negative,entertainment,8839,1180,871,2025-12-30 14:44:44.973057, #entertainment #Instagram
+post_0125,user_039,Just had an amazing experience with Twitter! Highly recommend #technology #Twitter,positive,technology,9581,2890,358,2025-12-29 01:44:44.973057, #technology #Twitter
+post_0126,user_032,Great to see progress in AI. Well done everyone! #technology #Instagram,positive,technology,7653,3396,465,2026-01-02 07:44:44.973057, #technology #Instagram
+post_0127,user_046,Loving the new features in Facebook. Game changer! #technology #Facebook,positive,technology,8395,3072,934,2026-01-09 00:44:44.973057, #technology #Facebook
+post_0128,user_001,Great to see progress in data science. Well done everyone! #science #Twitter,positive,science,1290,4584,388,2026-01-04 21:44:44.973057, #science #Twitter
+post_0129,user_013,Instagram needs serious improvements. Not impressed #science #Instagram,negative,science,1633,4335,782,2026-01-06 05:44:44.973057, #science #Instagram
+post_0130,user_028,Great to see progress in AI. Well done everyone! #technology #Twitter,positive,technology,1525,269,409,2026-01-05 15:44:44.973057, #technology #Twitter
+post_0131,user_047,The state science is concerning. Need urgent action #science #TikTok,negative,science,7113,1670,459,2025-12-24 19:44:44.973057, #science #TikTok
+post_0132,user_034,Great to see progress in programming. Well done everyone! #science #TikTok,positive,science,5878,4662,438,2026-01-16 07:44:44.973057, #science #TikTok
+post_0133,user_020,Discussion about Twitter features.What do you think? #health #Twitter,neutral,health,4330,1616,655,2026-01-02 06:44:44.973057, #health #Twitter
+post_0134,user_003,So excited about the new health developments.Future is bright #health #Facebook,positive,health,9223,2212,152,2026-01-09 19:44:44.973057, #health #Facebook
+post_0135,user_014,Facebook needs serious improvements. Not impressed #sports #Facebook,negative,sports,2196,138,19,2025-12-25 05:44:44.973057, #sports #Facebook
+post_0136,user_016,So excited about the new health developments.Future is bright #health #TikTok,positive,health,339,1343,961,2026-01-18 10:44:44.973057, #health #TikTok
+post_0137,user_023,Great to see progress in programming. Well done everyone! #health #YouTube,positive,health,686,4413,963,2026-01-15 17:44:44.973057, #health #YouTube
+post_0138,user_049,Interesting article about technology.Worth reading. #technology #Facebook,neutral,technology,7741,4263,848,2025-12-25 03:44:44.973057, #technology #Facebook
+post_0139,user_049,Great to see progress in data science. Well done everyone! #entertainment #Instagram,positive,entertainment,6766,3154,158,2026-01-01 07:44:44.973057, #entertainment #Instagram
+post_0140,user_031,Great to see progress in programming. Well done everyone! #entertainment #Twitter,positive,entertainment,1453,3042,629,2026-01-15 18:44:44.973057, #entertainment #Twitter
+post_0141,user_010,Really disappointed with Facebook.Excepted better #politics #Facebook,negative,politics,1139,298,837,2025-12-23 22:44:44.973057, #politics #Facebook
+post_0142,user_048,So excited about the new entertainment developments.Future is bright #entertainment #Twitter,positive,entertainment,1886,3226,147,2025-12-29 03:44:44.973057, #entertainment #Twitter
+post_0143,user_041,Änalysis of recent technology developments. #technology #Twitter,neutral,technology,8557,4704,466,2025-12-30 07:44:44.973057, #technology #Twitter
+post_0144,user_030,Really disappointed with Facebook.Excepted better #science #Facebook,negative,science,7240,2474,464,2026-01-20 18:44:44.973057, #science #Facebook
+post_0145,user_020,Just had an amazing experience with Twitter! Highly recommend #politics #Twitter,positive,politics,5367,1720,916,2026-01-16 21:44:44.973057, #politics #Twitter
+post_0146,user_036,Great to see progress in data science. Well done everyone! #sports #YouTube,positive,sports,530,1315,165,2026-01-05 16:44:44.973057, #sports #YouTube
+post_0147,user_048,Great to see progress in data science. Well done everyone! #politics #Instagram,positive,politics,8300,3828,559,2026-01-13 04:44:44.973057, #politics #Instagram
+post_0148,user_018,Frustrated with the lack of progress in data science. #technology #TikTok,negative,technology,2466,548,210,2025-12-27 10:44:44.973057, #technology #TikTok
+post_0149,user_043,The state technology is concerning. Need urgent action #technology #TikTok,negative,technology,4165,738,228,2026-01-01 09:44:44.973057, #technology #TikTok
+post_0150,user_043,Really disappointed with Instagram.Excepted better #sports #Instagram,negative,sports,2678,4425,558,2026-01-21 08:44:44.973057, #sports #Instagram
+post_0151,user_042,The state sports is concerning. Need urgent action #sports #Facebook,negative,sports,3248,3745,491,2025-12-25 23:44:44.973057, #sports #Facebook
+post_0152,user_028,Just had an amazing experience with YouTube! Highly recommend #sports #YouTube,positive,sports,6804,2662,768,2026-01-19 08:44:44.973057, #sports #YouTube
+post_0153,user_001,Discussion about TikTok features.What do you think? #sports #TikTok,neutral,sports,9767,4721,975,2025-12-25 00:44:44.973057, #sports #TikTok
+post_0154,user_037,Great to see progress in AI. Well done everyone! #technology #Instagram,positive,technology,84,270,118,2026-01-21 20:44:44.973057, #technology #Instagram
+post_0155,user_030,Instagram needs serious improvements. Not impressed #politics #Instagram,negative,politics,3915,2635,92,2026-01-19 04:44:44.973057, #politics #Instagram
+post_0156,user_030,Änalysis of recent sports developments. #sports #YouTube,neutral,sports,4245,1200,61,2026-01-21 12:44:44.973057, #sports #YouTube
+post_0157,user_038,Loving the new features in Instagram. Game changer! #health #Instagram,positive,health,637,515,162,2026-01-12 23:44:44.973057, #health #Instagram
+post_0158,user_000,Great to see progress in data science. Well done everyone! #technology #TikTok,positive,technology,3257,4521,637,2026-01-03 06:44:44.973057, #technology #TikTok
+post_0159,user_033,Loving the new features in Instagram. Game changer! #technology #Instagram,positive,technology,6705,4331,597,2026-01-05 07:44:44.974058, #technology #Instagram
+post_0160,user_043,Änalysis of recent politics developments. #politics #Facebook,neutral,politics,8360,4619,89,2026-01-18 06:44:44.974058, #politics #Facebook
+post_0161,user_027,Discussion about Twitter features.What do you think? #technology #Twitter,neutral,technology,4987,3491,773,2026-01-06 06:44:44.974058, #technology #Twitter
+post_0162,user_014,Interesting article about science.Worth reading. #science #YouTube,neutral,science,7444,1461,514,2026-01-21 12:44:44.974058, #science #YouTube
+post_0163,user_030,Loving the new features in Twitter. Game changer! #entertainment #Twitter,positive,entertainment,4549,4082,661,2025-12-31 10:44:44.974058, #entertainment #Twitter
+post_0164,user_029,Great to see progress in programming. Well done everyone! #politics #TikTok,positive,politics,1630,1207,370,2025-12-26 17:44:44.974058, #politics #TikTok
+post_0165,user_049,So excited about the new science developments.Future is bright #science #Facebook,positive,science,1703,2426,627,2026-01-11 18:44:44.974058, #science #Facebook
+post_0166,user_045,Just had an amazing experience with Twitter! Highly recommend #health #Twitter,positive,health,3429,1030,519,2026-01-18 09:44:44.974058, #health #Twitter
+post_0167,user_021,The state politics is concerning. Need urgent action #politics #Twitter,negative,politics,7953,2452,597,2026-01-14 04:44:44.974058, #politics #Twitter
+post_0168,user_049,New study shows trends iin data science. Data attached. #health #Twitter,neutral,health,2533,3792,635,2026-01-08 00:44:44.974058, #health #Twitter
+post_0169,user_037,Interesting article about sports.Worth reading. #sports #Facebook,neutral,sports,768,2275,189,2025-12-26 18:44:44.974058, #sports #Facebook
+post_0170,user_008,So excited about the new entertainment developments.Future is bright #entertainment #Twitter,positive,entertainment,8930,1320,976,2026-01-05 14:44:44.974058, #entertainment #Twitter
+post_0171,user_000,New study shows trends iin AI. Data attached. #sports #Twitter,neutral,sports,3552,3632,102,2026-01-01 08:44:44.974058, #sports #Twitter
+post_0172,user_004,Just had an amazing experience with Twitter! Highly recommend #entertainment #Twitter,positive,entertainment,4574,800,967,2025-12-30 20:44:44.974058, #entertainment #Twitter
+post_0173,user_042,Really disappointed with Facebook.Excepted better #technology #Facebook,negative,technology,3016,1188,384,2026-01-20 15:44:44.974058, #technology #Facebook
+post_0174,user_017,Great to see progress in data science. Well done everyone! #health #Twitter,positive,health,1868,286,709,2026-01-21 01:44:44.974058, #health #Twitter
+post_0175,user_030,Interesting article about health.Worth reading. #health #Twitter,neutral,health,4490,1330,663,2025-12-31 06:44:44.974058, #health #Twitter
+post_0176,user_049,New study shows trends iin AI. Data attached. #technology #Instagram,neutral,technology,6223,1459,788,2026-01-20 07:44:44.974058, #technology #Instagram
+post_0177,user_049,Loving the new features in Facebook. Game changer! #technology #Facebook,positive,technology,3551,2001,518,2026-01-19 06:44:44.974058, #technology #Facebook
+post_0178,user_006,Really disappointed with Instagram.Excepted better #health #Instagram,negative,health,5621,3537,899,2026-01-11 04:44:44.974058, #health #Instagram
+post_0179,user_001,Interesting article about technology.Worth reading. #technology #Twitter,neutral,technology,2904,3966,904,2026-01-19 04:44:44.974058, #technology #Twitter
+post_0180,user_038,Loving the new features in Facebook. Game changer! #technology #Facebook,positive,technology,5132,212,8,2025-12-31 08:44:44.974058, #technology #Facebook
+post_0181,user_020,Interesting article about sports.Worth reading. #sports #TikTok,neutral,sports,5615,2627,64,2025-12-30 12:44:44.974058, #sports #TikTok
+post_0182,user_012,Just had an amazing experience with TikTok! Highly recommend #entertainment #TikTok,positive,entertainment,9902,3460,347,2025-12-22 22:44:44.974058, #entertainment #TikTok
+post_0183,user_007,Great to see progress in programming. Well done everyone! #technology #TikTok,positive,technology,6764,92,745,2025-12-31 23:44:44.974058, #technology #TikTok
+post_0184,user_018,Facebook needs serious improvements. Not impressed #entertainment #Facebook,negative,entertainment,8239,4954,139,2026-01-16 16:44:44.974058, #entertainment #Facebook
+post_0185,user_013,Great to see progress in data science. Well done everyone! #technology #Instagram,positive,technology,2870,1095,563,2026-01-13 01:44:44.974058, #technology #Instagram
+post_0186,user_028,Great to see progress in AI. Well done everyone! #science #Twitter,positive,science,1939,2858,289,2026-01-10 02:44:44.974058, #science #Twitter
+post_0187,user_033,Interesting article about science.Worth reading. #science #YouTube,neutral,science,2493,982,63,2026-01-20 01:44:44.974058, #science #YouTube
+post_0188,user_048,Just had an amazing experience with TikTok! Highly recommend #health #TikTok,positive,health,8603,3313,731,2025-12-26 10:44:44.974058, #health #TikTok
+post_0189,user_024,Discussion about Facebook features.What do you think? #entertainment #Facebook,neutral,entertainment,8781,416,466,2026-01-19 14:44:44.974058, #entertainment #Facebook
+post_0190,user_032,Really disappointed with TikTok.Excepted better #politics #TikTok,negative,politics,957,2860,407,2026-01-09 07:44:44.974058, #politics #TikTok
+post_0191,user_035,Really disappointed with Instagram.Excepted better #entertainment #Instagram,negative,entertainment,5924,2706,554,2026-01-01 18:44:44.974058, #entertainment #Instagram
+post_0192,user_040,New study shows trends iin data science. Data attached. #politics #TikTok,neutral,politics,8595,842,341,2025-12-26 13:44:44.974058, #politics #TikTok
+post_0193,user_001,Änalysis of recent health developments. #health #Facebook,neutral,health,9104,4452,531,2026-01-01 05:44:44.974058, #health #Facebook
+post_0194,user_013,Discussion about TikTok features.What do you think? #sports #TikTok,neutral,sports,8108,4642,212,2026-01-12 03:44:44.974058, #sports #TikTok
+post_0195,user_040,Loving the new features in Facebook. Game changer! #health #Facebook,positive,health,6818,62,750,2025-12-29 00:44:44.975059, #health #Facebook
+post_0196,user_047,New study shows trends iin AI. Data attached. #sports #Instagram,neutral,sports,9964,2670,33,2026-01-04 00:44:44.975059, #sports #Instagram
+post_0197,user_040,Änalysis of recent politics developments. #politics #Instagram,neutral,politics,1361,4350,971,2026-01-14 01:44:44.975059, #politics #Instagram
+post_0198,user_046,So excited about the new politics developments.Future is bright #politics #Instagram,positive,politics,8625,4855,556,2026-01-18 23:44:44.975059, #politics #Instagram
+post_0199,user_038,Great to see progress in ML. Well done everyone! #entertainment #Facebook,positive,entertainment,6061,3790,816,2026-01-20 04:44:44.975059, #entertainment #Facebook
